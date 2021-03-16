@@ -11,8 +11,13 @@ Date : 16.03.2021
   
 Description : "Expense Tracker App" - a web app developed with bare React tools and  
 Bootstrap for decoration.  
-List of extra tools used are shown below.  
 
+Important: Created with the help of tutorial provided by Chris Blakely, on Freecodecamp.org
+- Youtube : [Video Walkthrough](https://youtu.be/aeYxBd1it7I)
+- Article : [Freecodecamp](https://www.freecodecamp.org/news/react-budget-tracker-app/)
+- Repository : [Github Repository](https://github.com/chrisblakely01/react-budget-app)
+
+List of extra tools used are shown below.  
 - 'uuid' package, for universal ids of expenses
 
 
