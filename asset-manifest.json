@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/eminarium/React-Budget-Tracker/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/eminarium/React-Budget-Tracker/static/js/main.8dd799a9.chunk.js",
+    "main.js.map": "/eminarium/React-Budget-Tracker/static/js/main.8dd799a9.chunk.js.map",
+    "runtime-main.js": "/eminarium/React-Budget-Tracker/static/js/runtime-main.2346f00f.js",
+    "runtime-main.js.map": "/eminarium/React-Budget-Tracker/static/js/runtime-main.2346f00f.js.map",
+    "static/css/2.150d169a.chunk.css": "/eminarium/React-Budget-Tracker/static/css/2.150d169a.chunk.css",
+    "static/js/2.df0d4194.chunk.js": "/eminarium/React-Budget-Tracker/static/js/2.df0d4194.chunk.js",
+    "static/js/2.df0d4194.chunk.js.map": "/eminarium/React-Budget-Tracker/static/js/2.df0d4194.chunk.js.map",
+    "static/js/3.11d0a5d2.chunk.js": "/eminarium/React-Budget-Tracker/static/js/3.11d0a5d2.chunk.js",
+    "static/js/3.11d0a5d2.chunk.js.map": "/eminarium/React-Budget-Tracker/static/js/3.11d0a5d2.chunk.js.map",
+    "index.html": "/eminarium/React-Budget-Tracker/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/eminarium/React-Budget-Tracker/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/eminarium/React-Budget-Tracker/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.df0d4194.chunk.js.LICENSE.txt": "/eminarium/React-Budget-Tracker/static/js/2.df0d4194.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2346f00f.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.df0d4194.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.8dd799a9.chunk.js"
+  ]
+}
