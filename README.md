@@ -1,6 +1,8 @@
 # React-Budget-Tracker
 Budget Tracker app, implemented in bare React (+ Bootstrap)
 
+Try the app at : https://eminarium.github.io/React-Budget-Tracker/
+
 Author : Merdan Durdyýew  
 Github : https://github.com/eminarium  
 Medium (Personal blog) : https://merdan-durdiyev.medium.com/   

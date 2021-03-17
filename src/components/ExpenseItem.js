@@ -26,12 +26,15 @@ const ExpenseItem = (props) => {
         setEditNameFlag(false)
         setEditCostFlag(false)
 
+        let newName = (name.trim().length === 0) ? "_" : name
+        let newCost = (cost.toString().trim().length === 0) ? 0 : cost
+
         dispatch({
             type: "UPDATE_EXPENSE",
             payload: {
                 id: props.id,
-                cost: parseInt(cost),
-                name: name
+                cost: parseInt(newCost),
+                name: newName
             }
         })
     }
